@@ -1,0 +1,7 @@
+org\example\ejercicio06frases\infrastructure\FraseController.class
+org\example\ejercicio06frases\application\FraseService.class
+org\example\ejercicio06frases\domain\entities\Frase$FraseBuilder.class
+org\example\ejercicio06frases\domain\repository\FraseRepository.class
+org\example\ejercicio06frases\application\impl\FraseServiceImpl.class
+org\example\ejercicio06frases\Ejercicio06FrasesApplication.class
+org\example\ejercicio06frases\domain\entities\Frase.class
